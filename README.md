@@ -18,14 +18,14 @@ AWS
 Spark
 - Column for simplified job title and Seniority
 - Column for description length
-# EDA
+# [EDA](https://github.com/Ahmd-karrar/ds_salary/blob/master/ds_salary_eda.ipynb)
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
 ![sector](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/6aefca44-3cf8-4702-95c8-eb99ba9b49b3)
 ![newplot (9)](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/a26790ec-5a5f-4c63-9364-b2d9071bf843)
 ![sp](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/eddf7c6d-00c3-4709-8579-0edccf8e2681)
 
-# Model Building
+# [Model Building](https://github.com/Ahmd-karrar/ds_salary/blob/master/MLR_model.py)
 - choose relevant columns
 - deal with categorical variables
 - split the data into train and test sets
