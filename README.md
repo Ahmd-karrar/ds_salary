@@ -25,3 +25,18 @@ I looked at the distributions of the data and the value counts for the various c
 ![newplot (9)](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/a26790ec-5a5f-4c63-9364-b2d9071bf843)
 ![sp](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/eddf7c6d-00c3-4709-8579-0edccf8e2681)
 
+# Model Building
+- choose relevant columns
+- deal with categorical variables
+- split the data into train and test sets
+- Fitting MLR model
+- check for multicollinearity using vif function
+- calculating Fitted Values and Residuals
+- Residuals v/s predicted plot
+- Check if distribution of errors "Normal"
+- shapiro wilk test 
+- calculate RMSE values based on residuals using first principle
+
+
+
+
