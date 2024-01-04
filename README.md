@@ -2,7 +2,7 @@
 - A data science salary  model was created to help data scientists negotiate their income when they get a job.
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
 - Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
-# Data Cleaning (https://github.com/Ahmd-karrar/ds_salary/blob/master/Data%20cleaning.py)
+# (https://github.com/Ahmd-karrar/ds_salary/blob/master/Data%20cleaning.py)Data Cleaning (https://github.com/Ahmd-karrar/ds_salary/blob/master/Data%20cleaning.py)
 - salary parsing numeric data out of salary.
 - Company name text only.
 - Removed rows without salary
