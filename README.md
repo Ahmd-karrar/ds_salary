@@ -22,6 +22,6 @@ Spark
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
 ![sector](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/6aefca44-3cf8-4702-95c8-eb99ba9b49b3)
-![newplot (9)](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/4bd8e515-1af1-4ff5-8ac9-3d6ae0ddb846)
+![newplot (9)](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/387d2b16-e389-40af-83d0-f9062d0256f0)
 ![sp](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/eddf7c6d-00c3-4709-8579-0edccf8e2681)
 
