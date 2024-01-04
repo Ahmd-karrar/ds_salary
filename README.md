@@ -20,21 +20,5 @@ Spark
 - Column for description length
 # EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
-![download](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/0a9c1a98-a775-4bc2-bd1b-82f6faf64721)
-![download](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/5ae14c5c-870b-4db8-a8c7-e60346ff8b7c)
-		avg_salary
-job_simp	seniority	
-analyst	jr	56.500000
-na	61.155405
-senior	79.092593
-data engineer	na	96.701220
-senior	124.689189
-data scientist	jr	106.500000
-na	107.043011
-senior	138.956522
-director	na	168.607143
-manager	na	84.022727
-mle	na	119.133333
-senior	142.071429
-na	na	73.988189
-senior	109.061404
+![sector](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/6aefca44-3cf8-4702-95c8-eb99ba9b49b3)
+
