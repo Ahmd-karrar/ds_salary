@@ -20,4 +20,4 @@ Spark
 - Column for description length
 # EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
-[download](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/0a9c1a98-a775-4bc2-bd1b-82f6faf64721)
+![download](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/0a9c1a98-a775-4bc2-bd1b-82f6faf64721)
